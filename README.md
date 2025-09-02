@@ -12,6 +12,7 @@ The dashboard is built on a DAX-driven data model, enabling calculated insights 
 Overall, this project demonstrates a structured approach to behavioural data analysis
 using accessible tools, blending statistical methods with visual storytelling. It shows how open data can be transformed into actionable insights to support student communities.
 
+
 ## Dataset & Source
 
 The dataset used in this project was sourced from Kaggle’s open platform, titled “Students' Social Media Addiction” by Adil Shamim (2025). It contains 705 anonymised responses from students across diverse demographics and academic levels.
@@ -44,6 +45,7 @@ The data was already clean and required minimal transformation. A small number o
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/21d903828cd39bb6609fcad4aa827e9c1505e93d/Excel_Screenshots/Excel_Regression_%20EDA%20(4).png)
 
+
 ## Analysis Performed
 
 Initial exploration was carried out in Microsoft Excel to identify early trends and correlations between key variables, including screen time, sleep duration, and academic performance.
@@ -54,21 +56,50 @@ Initial exploration was carried out in Microsoft Excel to identify early trends 
 
 A correlation matrix, conditional formatting and scatter plots were used to visually detect patterns, followed by a multiple linear regression model to evaluate how these variables interacted.
 
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/3b9df713da63b51e07a378980845dcd3d93ea12a/Excel_Screenshots/Excel_Regression_Correlation%20(6).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/3b9df713da63b51e07a378980845dcd3d93ea12a/Excel_Screenshots/Excel_Regression_Correlation%20(8).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/3b9df713da63b51e07a378980845dcd3d93ea12a/Excel_Screenshots/Excel_Regression_Correlation_Interpretation_Only%20(18).png)
+
+The regression analysis focused on predicting academic performance and mental health based on screen time, sleep hours, and addiction scores. Model validation was supported through R² values, line fit plots, and residual analysis, confirming a reasonable degree of fit and predictive capability.
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_Statistics.png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_Avg_Daily_Residual_And_LineFit.png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_Conflicts_Residual_And_LineFit.png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_MentalHealth_Residual_And_LineFit.png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_SleepHrs_Residual_And_LineFit.png)
+
+To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count and average score indicators. Additional legend tables were constructed using DATATABLE (Microsoft Learn, 2025), to support interpretation of mental health and addiction scores.
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Data_Model.png)
 
 
-The regression analysis focused on predicting academic performance and mental health based on screen time, sleep hours, and addiction scores. Model validation was supported through R² values, line fit plots, and residual analysis, confirming a reasonable degree of fit and predictive capability ([Figure 1] – Excel regression and diagnostics output).
+Interactive features such as slicers (platform, academic level, mental health category) and tooltips were implemented to enable filtering and drill-down functionality. Gradient-based conditional formatting was applied across mental health and addiction scores data cards to highlight varying levels of concern.
 
-To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count, average score indicators, and custom subtitle generation ([Figure 2] – DAX subtitle and total student measures). Additional legend tables were constructed using DATATABLE to support interpretation of mental health and addiction scores ([Figure 3] – Score legend tables).
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(1).png)
 
-Interactive features such as slicers (platform, academic level, gender) and tooltips were implemented to enable filtering and drill-down functionality. Gradient-based conditional formatting was applied across mental health and addiction scores to highlight varying levels of concern ([Figure 4] – Conditional formatting colour rules on dashboard cards).
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(2).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page2_Mental_and_Addiction_Scores_Explained%20(1).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(4).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(5).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview_DataCards_Background%20(1).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview_DataCards_Background%20(2).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page3_ScreenTime_Vs_Sleep_Vs_Performance%20(1).png)
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page4_ScreenTime_Vs_Conflicts_VsPerformance%20(1).png)
+
 
 This combined use of Excel and Power BI enabled a structured and repeatable approach to data modelling and behavioural analysis, aligning visual storytelling with statistical robustness.
-
-![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/399c12f4cb1838bf0bcf38aae2326de563727139/Excel_Screenshots/Excel_Regression_Correlation%20(6).png)
-
-![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/399c12f4cb1838bf0bcf38aae2326de563727139/Excel_Screenshots/Excel_Regression_Correlation%20(8).png)
-
-![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/399c12f4cb1838bf0bcf38aae2326de563727139/Excel_Screenshots/Excel_Regression_Correlation_Interpretation_Only%20(18).png)
 
 
 
@@ -76,6 +107,8 @@ This combined use of Excel and Power BI enabled a structured and repeatable appr
 
 
 ## References
+
+Dalesandro, J., 2024. Power BI: Filter Using Card Visualizations and Bookmarks. [online] Available at: https://johndalesandro.com/blog/power-bi-filter-using-card-visualizations-and-bookmarks/ [Accessed 11 June 2025].
 
 Global Wellness Institute, n.d. Digital Wellness Initiative. [online] Available at: https://globalwellnessinstitute.org/initiatives/digital-wellness-initiative/ [Accessed 30 August 2025].
 GOV.UK, 2021. What is Data Quality? [online] Available at: https://www.gov.uk/government/news/what-is-data-quality [Accessed 16 July 2025].
@@ -89,6 +122,8 @@ Hirshkowitz, M., Whiton, K., Albert, S.M., Alessi, C., Bruni, O., DonCarlos, L.,
 IconScout, n.d. Frightened Group Of People Sitting. [online] Available at: https://iconscout.com/free-illustration/frightened-group-of-people-sitting-10445471 [Accessed 20 August 2025].
 
 Menon, K., 2025. Everything You Need to Know About ETL (Extract, Transform & Load). [online] Simplilearn. Available at: https://www.simplilearn.com/what-is-etl-process-article [Accessed 1 July 2025].
+
+Microsoft Learn, 2025. DATATABLE function - DAX. [online] Available at: https://learn.microsoft.com/en-us/dax/DATATABLE-function-dax [Accessed 30 August 2025].
 
 Microsoft, 2025. Power BI Overview. [online] Available at: https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview [Accessed 11 July 2025].
 
