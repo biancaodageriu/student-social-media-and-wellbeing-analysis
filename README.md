@@ -79,6 +79,7 @@ The regression analysis focused on predicting academic performance and mental he
 
 To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count and average score indicators. Additional legend tables were constructed using DATATABLE (Microsoft Learn, 2025), to support interpretation of mental health and addiction scores.
 
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/fde5a728cce83b99ad84060f59a55603a28de308/PowerBI_Screenshots/PoweBI_Advanced_Editor_Anonymised.png)
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Data_Model.png)
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(1).png)
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(2).png)
