@@ -73,6 +73,7 @@ The regression analysis focused on predicting academic performance and mental he
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_SleepHrs_Residual_And_LineFit.png)
 
+
 ## Visualisations
 
 To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count and average score indicators. Additional legend tables were constructed using DATATABLE (Microsoft Learn, 2025), to support interpretation of mental health and addiction scores.
@@ -97,11 +98,13 @@ Provides a geographic breakdown of student responses and the most frequently use
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview_DataCards_Background%20(2).png)
 
+ 
  ### Page 2 - Mental Health & Addiction Score Page 
 
 Visualises the distribution of mental health and addiction scores using pie charts and classification bands. Users can interpret average scores using custom legends.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page2_Mental_and_Addiction_Scores_Explained%20(1).png)
+
 
 ### Page 3 - Screen Time vs Sleep and Academic Outcomes
 
@@ -109,11 +112,13 @@ Shows scatter plots comparing screen time with sleep duration and academic impac
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page3_ScreenTime_Vs_Sleep_Vs_Performance%20(1).png)
 
+
 ### Page 4 - Social Conflict vs Academic Impact 
 
 Highlights patterns of academic performance in relation to social conflicts caused by social media usage. Visualised with dot plots to display concentrations across usage bands.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page4_ScreenTime_Vs_Conflicts_VsPerformance%20(1).png)
+
 
 ### Page 5 – Digital Behaviours vs Mental Health Insights
 
@@ -121,9 +126,11 @@ Examines the relationship between daily screen time and self-rated mental health
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/244e4327dd810dfb20c42a56e9d6e6e04a91467b/PowerBI_Screenshots/PoweBI_Page5_ScreenTime_AddictionScore_Vs_Mental%20Health%20(1).png)
 
+
 ## Conclusion
 
  This project uncovered notable correlations between students’ digital behaviours and key wellbeing indicators. Higher daily screen time was often linked to lower self-rated mental health and reduced academic performance. Addiction scores tended to be higher among students reporting average or poor wellbeing, while those experiencing social conflicts from digital interactions also showed weaker academic outcomes. Sleep duration emerged as a protective factor, with better-rested students generally achieving stronger academic and mental health results. Overall, the dashboard delivered accessible insights into how screen time, conflict, sleep, and academic performance intersect, providing a foundation for targeted interventions and awareness initiatives.
+
 
 ## Recommendations
 
