@@ -1,7 +1,7 @@
 # Student Social Media and Wellbeing Analysis
 A data science project exploring the relationship between social media behavior and student wellbeing using Power BI and Excel.
 ## Executive Summary
-This project explores how social media use relates to student wellbeing, using a publicly available Kaggle dataset (Shamim, A., 2025). The goal was to uncover patterns that could inform better interventions for educators, policymakers and digital wellness initiatives (Global Wellness Institute, n.d.).
+This project explores how social media use relates to student wellbeing, using a publicly available Kaggle dataset (Shamim, A., 2025). The key hypothesis driving this analysis is: "Increased daily screen time on social media negatively impacts student mental health, academic performance, and sleep quality". The goal was to uncover patterns that could inform better interventions for educators, policymakers and digital wellness initiatives (Global Wellness Institute, n.d.).
 
 The dataset contains 705 student responses, covering factors such as daily screen time, nightly sleep hours, relationship status, mental health scores, and academic performance. Initial exploratory analysis was carried out in Excel, followed by a multiple linear regression model to evaluate how screen time influences academic scores, sleep, and mental wellbeing.
 
