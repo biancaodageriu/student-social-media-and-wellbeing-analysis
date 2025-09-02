@@ -80,6 +80,19 @@ The regression analysis focused on predicting academic performance and mental he
 To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count and average score indicators. Additional legend tables were constructed using DATATABLE (Microsoft Learn, 2025), to support interpretation of mental health and addiction scores.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Data_Model.png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(1).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(2).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(3).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(4).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(5).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(6).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(7).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(8).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(9).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Measures%20(10).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Calculated%20Columns%20(1).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Calculated%20Columns%20(2).png)
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/f4dc17552ea86cc8a3dbee5be656501955d355ff/PowerBI_Screenshots/PoweBI_Calculated%20Columns%20(3).png)
 
 Each page follows a consistent layout and includes slicers, tooltips, and calculated measures. A colour-blind-friendly theme was applied, and interactive elements—such as slicers for platform, academic level, and mental health category, along with tooltips, enable filtering, drill-down functionality, and an overall enhanced user experience.
 
