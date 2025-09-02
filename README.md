@@ -121,16 +121,27 @@ Examines the relationship between daily screen time and self-rated mental health
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/244e4327dd810dfb20c42a56e9d6e6e04a91467b/PowerBI_Screenshots/PoweBI_Page5_ScreenTime_AddictionScore_Vs_Mental%20Health%20(1).png)
 
-This combined use of Excel and Power BI enabled a structured and repeatable approach to data modelling and behavioural analysis, aligning visual storytelling with statistical robustness.
+## Conclusion
 
+ This project uncovered notable correlations between students’ digital behaviours and key wellbeing indicators. Higher daily screen time was often linked to lower self-rated mental health and reduced academic performance. Addiction scores tended to be higher among students reporting average or poor wellbeing, while those experiencing social conflicts from digital interactions also showed weaker academic outcomes. Sleep duration emerged as a protective factor, with better-rested students generally achieving stronger academic and mental health results. Overall, the dashboard delivered accessible insights into how screen time, conflict, sleep, and academic performance intersect, providing a foundation for targeted interventions and awareness initiatives.
 
+## Recommendations
 
-
+ - Expand demographic fields: Future datasets should include variables such as socioeconomic background, device type, and course type to enable more granular segmentation.
+ - Implement advanced predictive models: Techniques like time-series forecasting or clustering (GeeksforGeeks, 2025) could help anticipate behavioural trends and identify students at higher risk.
+ - Increase dataset size and diversity: Incorporating a larger, more internationally diverse sample would improve generalisability and allow for richer comparative insights.
+ - Enable real-time data input: Building a survey-to-dashboard pipeline would allow educators and institutions to apply the dashboard in live environments.
+ - Enhance accessibility: Adding narrative summaries, audio support, and detailed tooltip explanations for each insight would improve inclusivity and comprehension.
+ - Conduct user testing and feedback cycles: Iterating based on input from educators, wellbeing officers, and students would refine visual prioritisation and overall usability.
 
 
 ## References
 
 Dalesandro, J., 2024. Power BI: Filter Using Card Visualizations and Bookmarks. [online] Available at: https://johndalesandro.com/blog/power-bi-filter-using-card-visualizations-and-bookmarks/ [Accessed 11 June 2025].
+
+GeeksforGeeks, 2025. Clustering in Machine Learning. [online] Available at: https://www.geeksforgeeks.org/machine-learning/clustering-in-machine-learning/ [Accessed 2 September 2025].
+
+GeeksforGeeks, 2025. Time Series Analysis and Forecasting. [online] Available at: https://www.geeksforgeeks.org/machine-learning/time-series-analysis-and-forecasting/ [Accessed 2 September 2025].
 
 Global Wellness Institute, n.d. Digital Wellness Initiative. [online] Available at: https://globalwellnessinstitute.org/initiatives/digital-wellness-initiative/ [Accessed 30 August 2025].
 GOV.UK, 2021. What is Data Quality? [online] Available at: https://www.gov.uk/government/news/what-is-data-quality [Accessed 16 July 2025].
@@ -155,3 +166,4 @@ Sagerrald, A., 2023. Correlation vs Causation: Avoiding Statistical Red Herrings
 
 Shamim, A., 2025. Social Media Addiction vs Relationships. [online] Kaggle. Available at: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships [Accessed 11 July 2025].
 
+Statistics Easily, n.d. What is Robust Statistics in Data Analysis? [online] Available at: https://statisticseasily.com/glossario/what-is-robust-statistics-data-analysis/ [Accessed 2 September 2025].
