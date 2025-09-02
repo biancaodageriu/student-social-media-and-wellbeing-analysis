@@ -73,31 +73,53 @@ The regression analysis focused on predicting academic performance and mental he
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/Excel_Screenshots/Excel_Regression_SleepHrs_Residual_And_LineFit.png)
 
+## Visualisations
+
 To extend the analysis, a DAX-driven Power BI dashboard was developed. Calculated columns and measures were created to enable dynamic insights, including total student count and average score indicators. Additional legend tables were constructed using DATATABLE (Microsoft Learn, 2025), to support interpretation of mental health and addiction scores.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Data_Model.png)
 
+Each page follows a consistent layout and includes slicers, tooltips, and calculated measures. A colour-blind-friendly theme was applied, and interactive elements—such as slicers for platform, academic level, and mental health category, along with tooltips, enable filtering, drill-down functionality, and an overall enhanced user experience.
 
-Interactive features such as slicers (platform, academic level, mental health category) and tooltips were implemented to enable filtering and drill-down functionality. Gradient-based conditional formatting was applied across mental health and addiction scores data cards to highlight varying levels of concern.
+ ### Page 1 - Overview Page
+
+Provides a geographic breakdown of student responses and the most frequently used social media platforms. Key statistics such as average screen time, sleep hours, and wellbeing scores are displayed using data cards with gradient-based conditional formatting across mental health and addiction scores data cards to highlight varying levels of concern. Slicers allow filtering by platform and academic level.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(1).png)
-
-![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(2).png)
-
-![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page2_Mental_and_Addiction_Scores_Explained%20(1).png)
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(4).png)
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(5).png)
 
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview%20(2).png)
+
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview_DataCards_Background%20(1).png)
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page1_Overview_DataCards_Background%20(2).png)
 
+ ### Page 2 - Mental Health & Addiction Score Page 
+
+Visualises the distribution of mental health and addiction scores using pie charts and classification bands. Users can interpret average scores using custom legends.
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page2_Mental_and_Addiction_Scores_Explained%20(1).png)
+
+### Page 3 - Screen Time vs Sleep and Academic Outcomes
+
+Shows scatter plots comparing screen time with sleep duration and academic impact. Filters by mental health category and academic level offer additional segmentation.
+
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page3_ScreenTime_Vs_Sleep_Vs_Performance%20(1).png)
+
+### Page 4 - Social Conflict vs Academic Impact 
+
+Highlights patterns of academic performance in relation to social conflicts caused by social media usage. Visualised with dot plots to display concentrations across usage bands.
 
 ![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/c26c068c78b66ee9160b9bd855b05e30f936fb71/PowerBI_Screenshots/PoweBI_Page4_ScreenTime_Vs_Conflicts_VsPerformance%20(1).png)
 
+### Page 5 – Digital Behaviours vs Mental Health Insights
+
+Examines the relationship between daily screen time and self-rated mental health using a combination of bar charts and scatter plots. Key metrics such as average addiction score, “good” mental health category percentage, and academic impact are displayed using data cards. Slicers enable filtering by academic level and mental health category. Conditional colour formatting enhances the visibility of patterns across screen usage and wellbeing levels.
+
+![Alt text](https://github.com/biancaodageriu/student-social-media-and-wellbeing-analysis/blob/244e4327dd810dfb20c42a56e9d6e6e04a91467b/PowerBI_Screenshots/PoweBI_Page5_ScreenTime_AddictionScore_Vs_Mental%20Health%20(1).png)
 
 This combined use of Excel and Power BI enabled a structured and repeatable approach to data modelling and behavioural analysis, aligning visual storytelling with statistical robustness.
 
