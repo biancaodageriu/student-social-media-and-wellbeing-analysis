@@ -185,9 +185,9 @@ IconScout, n.d. Frightened Group Of People Sitting. [online] Available at: https
 
 Menon, K., 2025. Everything You Need to Know About ETL (Extract, Transform & Load). [online] Simplilearn. Available at: https://www.simplilearn.com/what-is-etl-process-article [Accessed 1 July 2025].
 
-Microsoft Learn, 2025. DATATABLE function - DAX. [online] Available at: https://learn.microsoft.com/en-us/dax/DATATABLE-function-dax [Accessed 30 August 2025].
-
 Microsoft, 2025. Power BI Overview. [online] Available at: https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview [Accessed 11 July 2025].
+
+Microsoft Learn, 2025. DATATABLE function - DAX. [online] Available at: https://learn.microsoft.com/en-us/dax/DATATABLE-function-dax [Accessed 30 August 2025].
 
 Niaz, M., 2024. How to Perform Regression Analysis in Excel? (3 Methods). [online] ExcelDemy. Available at: https://www.exceldemy.com/learn-excel/statistics/regression/ [Accessed 2 July 2025].
 
