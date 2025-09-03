@@ -199,4 +199,6 @@ Statistics Easily, n.d. What is Robust Statistics in Data Analysis? [online] Ava
 
 Tulane University, 2024. Impact of Social Media on Students. [online] Available at: https://masterofed-sopa.tulane.edu/articles/impact-of-social-media-on-students/ [Accessed 30 August 2025].
 
+U.S. Department of Health and Human Services, 2023. Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory. [online] Available at: https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf [Accessed 2 September 2025].
+
 Zhang, Y. and Zhang, Y., 2022. The impact of social media on emotional well-being and education in the post-pandemic era. [online] PubMed Central. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9521624/ [Accessed 30 August 2025].
