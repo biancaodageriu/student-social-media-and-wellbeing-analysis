@@ -169,7 +169,7 @@ Dalesandro, J., 2024. Power BI: Filter Using Card Visualizations and Bookmarks. 
 
 GeeksforGeeks, 2025. Clustering in Machine Learning. [online] Available at: https://www.geeksforgeeks.org/machine-learning/clustering-in-machine-learning/ [Accessed 2 September 2025].
 
-GeeksforGeeks, 2025. Time Series Analysis and Forecasting. [online] Available at: https://www.geeksforgeeks.org/machine-learning/time-series-analysis-and-forecasting/ [Accessed 2 September 2025].
+GeeksforGeeks, 2025. Time Series Analysis and Forecasting. [online] Available at: https://www.geeksforgeeks.org/machine-learning/time-series-analysis-and-forecasting/ [Accessed 2 August 2025].
 
 Global Wellness Institute, n.d. Digital Wellness Initiative. [online] Available at: https://globalwellnessinstitute.org/initiatives/digital-wellness-initiative/ [Accessed 30 August 2025].
 
@@ -177,7 +177,7 @@ GOV.UK, 2021. What is Data Quality? [online] Available at: https://www.gov.uk/go
 
 GOV.UK, n.d. Data protection. [online] Available at: https://www.gov.uk/data-protection [Accessed: 1 June 2025].
 
-Hawthorne, H., 2023. Effective Interventions in Education: Types and Examples. [online] High Speed Training. Available at: https://www.highspeedtraining.co.uk/hub/effective-interventions-in-education/ [Accessed 2 September 2025].
+Hawthorne, H., 2023. Effective Interventions in Education: Types and Examples. [online] High Speed Training. Available at: https://www.highspeedtraining.co.uk/hub/effective-interventions-in-education/ [Accessed 1 September 2025].
 
 Hirshkowitz, M., Whiton, K., Albert, S.M., Alessi, C., Bruni, O., DonCarlos, L., Hazen, N., Herman, J., Katz, E.S., Kheirandish-Gozal, L., Neubauer, D.N., O’Donnell, A.E., Ohayon, M., Peppard, P.E., Pressman, M.R., and Adams Hillard, P.J., 2018. National Sleep Foundation’s sleep time duration recommendations: methodology and results summary. [online] PubMed Central. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6267703/ [Accessed 20 August 2025].
 
@@ -189,10 +189,14 @@ Microsoft Learn, 2025. DATATABLE function - DAX. [online] Available at: https://
 
 Microsoft, 2025. Power BI Overview. [online] Available at: https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview [Accessed 11 July 2025].
 
-Niaz, M., 2024. How to Perform Regression Analysis in Excel? (3 Methods). [online] ExcelDemy. Available at: https://www.exceldemy.com/learn-excel/statistics/regression/ [Accessed 2 September 2025].
+Niaz, M., 2024. How to Perform Regression Analysis in Excel? (3 Methods). [online] ExcelDemy. Available at: https://www.exceldemy.com/learn-excel/statistics/regression/ [Accessed 2 July 2025].
 
 Sagerrald, A., 2023. Correlation vs Causation: Avoiding Statistical Red Herrings. [online] Medium. Available at: https://medium.com/@anantasagerrald/correlation-vs-causation-avoiding-statistical-red-herrings-6a9d05b729bf [Accessed 2 September 2025].
 
 Shamim, A., 2025. Social Media Addiction vs Relationships. [online] Kaggle. Available at: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships [Accessed 11 July 2025].
 
-Statistics Easily, n.d. What is Robust Statistics in Data Analysis? [online] Available at: https://statisticseasily.com/glossario/what-is-robust-statistics-data-analysis/ [Accessed 2 September 2025].
+Statistics Easily, n.d. What is Robust Statistics in Data Analysis? [online] Available at: https://statisticseasily.com/glossario/what-is-robust-statistics-data-analysis/ [Accessed 30 August 2025].
+
+Tulane University, 2024. Impact of Social Media on Students. [online] Available at: https://masterofed-sopa.tulane.edu/articles/impact-of-social-media-on-students/ [Accessed 30 August 2025].
+
+Zhang, Y. and Zhang, Y., 2022. The impact of social media on emotional well-being and education in the post-pandemic era. [online] PubMed Central. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9521624/ [Accessed 30 August 2025].
